@@ -1,4 +1,9 @@
-.title{
-    text-align: right;
-
+ html, body{
+    display: flex;
+    
+ }
+ 
+ 
+ .title{
+    text-align: center;
 }
