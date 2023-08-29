@@ -1,14 +1,14 @@
 #title{
     text-align: center;
-    padding: 50px;
+    padding: 25px;
     border: 2px solid black;
-    font-size: 150%;
+    font-size: 150%rem;
+}
+#title p{
+    font-size: 30px;
 }
 nav{
     text-align: right;
-}
-header {
-    padding: 20px 20px;
 }
 ul{
     padding-top: 50px;
@@ -26,4 +26,7 @@ li{
 }
 p{
     font-family: 'Lora', serif;
+}
+header row {
+    padding-top: 15px;
 }
