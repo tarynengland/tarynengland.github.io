@@ -22,8 +22,11 @@ li{
 .col-sm-2{
     background-color:grey;
 }
-#text{
+h1 {
     font-family: 'Amita', cursive ; 
+}
+h3{
+    font-family: 'Amita', cursive ;
 }
 p{
     font-family: 'Lora', serif;
