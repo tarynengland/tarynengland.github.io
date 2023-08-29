@@ -3,6 +3,7 @@
     padding: 25px;
     border: 2px solid black;
     font-size: 150%rem;
+    height: auto;
 }
 #title p{
     font-size: 30px;
@@ -32,4 +33,16 @@ header row {
 }
 .col{
     background-color: grey;
+}
+#size{
+    margin-left: 175px;
+    height: 3em;
+}
+#occasion{
+    margin-left: 150px;
+    height: 5em;
+}
+#budget{
+    margin-left: 175px;
+    height: 5em;
 }
