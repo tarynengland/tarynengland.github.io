@@ -2,8 +2,8 @@
     text-align: center;
     padding: 25px;
     border: 2px solid black;
-    font-size: 150%rem;
-    height: auto;
+    font-size: 2.5em;
+    justify-content: center;
 }
 nav{
     text-align: right;
@@ -19,6 +19,8 @@ li{
 }
 .col-sm-2{
     background-color:grey;
+    justify-content: center;
+    text-align: center;
 }
 h1 {
     font-family: 'Amita', cursive ; 
